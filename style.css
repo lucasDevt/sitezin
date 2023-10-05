@@ -1,0 +1,67 @@
+body{
+    background-image: linear-gradient( #18c3ff, #00adff, #3795ff, #6d77f1, #9651d6);
+    margin: 0;
+     padding-top: 0;
+    
+}
+#sobre{
+    margin-left: 100px;
+    margin-right: 300px;
+    margin-top: 0;
+    font-size: 20px;
+    color: rgb(110, 0, 184);
+    font-weight: bold;
+}
+h1{
+    
+    color: rgb(245, 0, 0);
+    font-weight: bold;
+}
+
+#welcome{
+    background-image: linear-gradient(to bottom, #eef820, #cff11e, #afe922, #8ee129, #6bd831);
+    position:relative;
+    bottom:0;
+    width: 70%;
+     height: 90%;
+
+   
+}
+#pack{
+    width:360px;
+    height:360px;
+    border-radius:50% ;
+    margin-left:20px ;
+    margin-top:0;
+}
+#brabo{
+    text-align:left;
+    margin-left: 150px;
+    font-size: 50px;
+}
+#bio{
+    background-image: linear-gradient(to bottom, #00ffe8, #00ebc3, #00d79d, #00c376, #06ae4e);
+    padding: 100px;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    margin: 40px;
+}
+.grid img{
+    border-radius:8px ;
+    border:2px solid #ffffff
+}
+.slk{
+    border-radius: 20px;
+    padding: 30px;
+    margin: 25px;
+    width: 310px;
+    
+    background-image: linear-gradient(to bottom, #3feb98, #60e88d, #76e483, #89e07a, #98dc73);
+
+}
+.slk p{
+    color: #7c00ff;
+    font-size: 30px;
+}
